@@ -23,6 +23,11 @@
         {"tag": "opentoday",
          "patterns": ["Are you open today?", "When do you open today?", "What are your hours today?", "What is your schedule?"],
          "responses": ["We're open every day from 9am-9pm", "Our hours are 9am-9pm every day"]
+        },
+        {
+          "tag": "infoaboutcreator",
+          "patterns": ["Who made you?", "Who created you?", "Who is your creator?"],
+          "responses": ["I was made by Vonor22#7289, check him out on discord!", "My creator is Vonor22#7289. Check him out on github @Prograb"]
         }
    ]
 }
